@@ -1,0 +1,9 @@
+name: PlayerHealthInformation
+version: '${version}'
+main: io.github.galaxyvn.playerhealthinformation.PlayerHealthInformation
+commands:
+  playerhealtinformation:
+    aliases: ["phi", "ph"]
+permissions:
+  playerhealtinformation.command:
+    default: op

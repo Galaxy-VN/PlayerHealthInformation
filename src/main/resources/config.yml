@@ -1,0 +1,3 @@
+boss-bar: "&f<player>: <current>/<max>"
+boss-bar-color: "blue"
+boss-bar-overlay: "progress"
